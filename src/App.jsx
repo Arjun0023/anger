@@ -21,6 +21,8 @@ function BackgroundChanger() {
         <button onClick={() => changeBackground('black')}>Black</button>
         <button onClick={() => changeBackground('violet')}>violet</button>
         <button onClick={() => changeBackground('orange')}>orange</button>
+        <button onClick={() => changeBackground('Pink')}>pink</button>
+        <button onClick={() => changeBackground('gray')}>gray</button>
       </div>
     </div>
   );
